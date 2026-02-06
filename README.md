@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hussain Jan!
 
-**Frontend Web Developer** | **JavaScript Specialist** | **UI Designer**
+**Frontend Web Developer** | **JavaScript Specialist** | **UI Designer** | **React** | **Tailwind** | **Express**
 
 Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern web technologies.
 
