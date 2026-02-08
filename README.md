@@ -12,8 +12,9 @@ Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern we
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-7952B3?style=for-the-badge&logo=React&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-7952B3?style=for-the-badge&logo=Tailwind&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-7952B3?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-7952B3?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-7952B3?style=for-the-badge&logo=Express&logoColor=white)
 
 
 ### Tools & Platforms
