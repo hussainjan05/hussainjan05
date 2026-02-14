@@ -35,7 +35,7 @@ Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern we
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainjan05&layout=compact&theme=radical&hide_border=true)](https://github.com/hussainjan05)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hussainjan05&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+ 
 ## 📫 Let's Collaborate
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainjanafridi5@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afridihussainjan)
