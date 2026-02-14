@@ -2,7 +2,7 @@
 
 **Frontend Web Developer** | **JavaScript Specialist** | **UI Designer** | **React** | **Tailwind** | **Express**
 
-Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern web technologies. 
+Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern web technologies.  
 
 ## 🛠️ Tech Stack 
 
