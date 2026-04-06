@@ -32,10 +32,6 @@ Welcome to my GitHub! I craft pixel-perfect, responsive websites using modern we
 - **Backend Development (Node.js, Express, MongoDB)**
 - **React Native (Mobile App Development)**
 - **Flutter (Cross Platform Apps)**
-- Advanced CSS Animations  
-- JavaScript Design Patterns  
-- Web Performance Optimization  
-
 ---
 
 ## 🚀 Featured Projects
